@@ -39,7 +39,7 @@ Just LILYGO T3S3 V1.0 + noce case
 
 - LILYGO T3S3 V1.0
 - GPS ATGM336H
-- Notify LED
+- Notify LED + Buzzer
 - 18650 + BMS 
 - LORA_T3S3.3mf Case 3D printed
 - LORA_T3S3.svg file for laser cut
@@ -47,13 +47,16 @@ Just LILYGO T3S3 V1.0 + noce case
 
 ### t3s3 (red) 
 
-![](https://github.com/kkwestt/Meshtastic-board-s/blob/a70f731179a8acc23f7498bdf04835c082e6f1e3/t3s3_red/t3s3_red.jpg)
+![](https://github.com/kkwestt/Meshtastic-board-s/blob/492f89dead19d85f86c141e7ba42745ee3ce9f52/t3s3_red/t3s3_red2.JPG)
 
 - LILYGO T3S3 V1.0 with E22 LORA module 22dbm or 30dbm 868 or 433 (22-30-33 dbm) 
 - GPS ATGM336H Module
 - 18650 2pcs holder
-- BMS 1S
+- Li-Ion charger 1A + Temperature battery protection
+- BMS 1S (overcharge and over discharge)
+- SD card
 - UPS 5v (dc-dc buck boost)
+- Notify LED + Buzzer (+ Vibro)
 - Temp Sensor BME280 or SHT31 (recomended)
 - Clock PCF8563
 - Powered in the range 5-26V
