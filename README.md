@@ -82,7 +82,8 @@ Best power consumption. E-Byte E104-BT5040U + E22-900M22S on 22dBm Rx 0.7W and T
 - On-board QSPI Flash MX25R1635F
 - Temp Sensor BME280 or SHT31 (recomended)
 - Pin's for i2c OLED 
-- GPS ATGM336H Module
+- GPS ATGM336H Module + wake pin's hack
 - 5V Power
+- Battery voltage detector pin's
 
 
