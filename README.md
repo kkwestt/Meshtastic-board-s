@@ -73,6 +73,7 @@ Just LILYGO T3S3 V1.0 + noce case
 
 
 ### NRF52840 based on E-Byte E104-BT5040U 
+Best power consumption. E-Byte E104-BT5040U + E22-900M22S on 22dBm Rx 0.7W and Tx 0.33W
 
 ![](https://github.com/kkwestt/Meshtastic-board-s/blob/a70f731179a8acc23f7498bdf04835c082e6f1e3/nrf52840/nrf52840.png)
  
