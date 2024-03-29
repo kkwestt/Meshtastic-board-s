@@ -1,4 +1,5 @@
-# Meshtastic board's
+# [Meshtastic boards](https://meshtastic.org/)
+
 
 Hello!
 Sometimes, and lately often, I make boards for meshtastic, and in search of the optimal solution for this project, a large number of their variations have accumulated. So I decided to post them. They will all be here. Appearance of the board, diagram and file for assembling the firmware and possibly the firmware itself.
@@ -70,6 +71,8 @@ Just LILYGO T3S3 V1.0 + nice case
 - GPS ATGM336H Module
 - Temp Sensor BME280 or SHT31 (recomended)
 - Powered in the range 5-26V
+
+
 
 
 ### NRF52840 based on E-Byte E104-BT5040U
