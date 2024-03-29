@@ -27,7 +27,7 @@ E22 LORA module 22dbm or 30dbm 868 and 433 (30-33dbm)
 Second board wired for Mestastic. There are several errors.
 
 
-![](https://github.com/kkwestt/Meshtastic-board-s/blob/a70f731179a8acc23f7498bdf04835c082e6f1e3/diy_v1_green/diy_v1_green.jpg)
+![](https://github.com/kkwestt/Meshtastic-board-s/blob/56067dfa795629560050608790e9b81ca606c778/diy_v1_blue/diy_v1_blue.jpg)
 
 - E22 LORA module 22dbm or 30dbm 868 and 433 (30-33dbm) 
 - Notify LED + Buzzer
