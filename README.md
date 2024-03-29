@@ -72,13 +72,14 @@ Just LILYGO T3S3 V1.0 + noce case
 - Powered in the range 5-26V
 
 
-### NRF52840 based on E-Byte E104-BT5040U 
+### NRF52840 based on E-Byte E104-BT5040U
 Best power consumption. E-Byte E104-BT5040U + E22-900M22S on 22dBm Rx 0.7W and Tx 0.33W
+Also tested and worked on nRF52840 Dongle, but to hard for soldering analog pin P0.04
 
 ![](https://github.com/kkwestt/Meshtastic-board-s/blob/a70f731179a8acc23f7498bdf04835c082e6f1e3/nrf52840/nrf52840.png)
  
 - E-Byte E104-BT5040U CPU nrf52840  
-- E22 LORA module 22dbm or 30dbm 868 or 433 (22-30-33 dbm) 
+- E22 LORA module (22 or 30dbm) 868 or 433 (22-30-33 dbm) 
 - On-board QSPI Flash MX25R1635F
 - Temp Sensor BME280 or SHT31 (recomended)
 - Pin's for i2c OLED 
