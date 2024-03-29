@@ -87,4 +87,5 @@ Also tested and worked on nRF52840 Dongle, but to hard for soldering analog pin 
 - 5V Power
 - Battery voltage detector pin's
 
+Gerber-NRF52840.zip - gerber files for production
 
