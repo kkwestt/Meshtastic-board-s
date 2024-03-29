@@ -17,7 +17,7 @@ Sometimes, and lately often, I make boards for meshtastic, and in search of the 
 The very first board wired for Mestastic. There are several errors. 
 E22 LORA module 22dbm or 30dbm 868 and 433 (30-33dbm) 
 
-![](https://github.com/kkwestt/Meshtastic-board-s/blob/a70f731179a8acc23f7498bdf04835c082e6f1e3/diy_v1_blue/diy_v1_blue.jpg)
+![](https://github.com/kkwestt/Meshtastic-board-s/blob/a70f731179a8acc23f7498bdf04835c082e6f1e3/diy_v1_green/diy_v1_green.jpg)
 
 - E22 LORA module 22dbm or 30dbm 868 and 433 (30-33dbm) 
 - Notify LED + Buzzer
