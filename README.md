@@ -3,13 +3,13 @@
 Hello!
 Sometimes, and lately often, I make boards for meshtastic, and in search of the optimal solution for this project, a large number of their variations have accumulated. So I decided to post them. They will all be here. Appearance of the board, diagram and file for assembling the firmware and possibly the firmware itself.
 
-## Version list
+## Version's list
 - DIY_V1 (green)
 - DIY_V1 (blue)
 - t3s3 (white) LILYGO T3S3 V1.0 + Case + GPS ATGM336H
 - t3s3 (red) based on LILYGO T3S3 V1.0
 - t3s3 (blue) based on LILYGO T3S3 V1.0
-
+- 
 
 
 
@@ -70,11 +70,11 @@ Just LILYGO T3S3 V1.0 + noce case
 - Powered in the range 5-26V
 
 
-### nrf52840 based on 
+### nrf52840 based on E-Byte E104-BT5040U NRF52840
 
 ![](https://github.com/kkwestt/Meshtastic-board-s/blob/a70f731179a8acc23f7498bdf04835c082e6f1e3/nrf52840/nrf52840.png)
  
-- nrf52840 CPU E-Byte E104-BT5040U 
+- E-Byte E104-BT5040U CPU nrf52840  
 - E22 LORA module 22dbm or 30dbm 868 and 433 (30-33dbm) 
 - On-board QSPI Flash MX25R1635F
 - Temp Sensor BME280 or SHT31 (recomended)
