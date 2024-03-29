@@ -33,13 +33,13 @@ Second board wired for Mestastic. There are several errors.
 
 
 ### t3s3 (white) 
-Just LILYGO T3S3 V1.0 + noce case
+Just LILYGO T3S3 V1.0 + nice case
 
 ![](https://github.com/kkwestt/Meshtastic-board-s/blob/a70f731179a8acc23f7498bdf04835c082e6f1e3/t3s3_white/t3s3_white.jpg)
 
 - LILYGO T3S3 V1.0
 - GPS ATGM336H
-- Notify LED + Buzzer
+- Notify bright LED
 - 18650 + BMS 
 - LORA_T3S3.3mf Case 3D printed
 - LORA_T3S3.svg file for laser cut
