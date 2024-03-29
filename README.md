@@ -9,7 +9,7 @@ Sometimes, and lately often, I make boards for meshtastic, and in search of the 
 - t3s3 (white) LILYGO T3S3 V1.0 + Case + GPS ATGM336H
 - t3s3 (red) based on LILYGO T3S3 V1.0
 - t3s3 (blue) based on LILYGO T3S3 V1.0
-- 
+- NRF52840 based on E-Byte E104-BT5040U 
 
 
 
@@ -70,7 +70,7 @@ Just LILYGO T3S3 V1.0 + noce case
 - Powered in the range 5-26V
 
 
-### nrf52840 based on E-Byte E104-BT5040U NRF52840
+### NRF52840 based on E-Byte E104-BT5040U 
 
 ![](https://github.com/kkwestt/Meshtastic-board-s/blob/a70f731179a8acc23f7498bdf04835c082e6f1e3/nrf52840/nrf52840.png)
  
