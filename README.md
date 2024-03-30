@@ -19,7 +19,7 @@ The very first board wired for Mestastic. There are several errors.
 
 ![](https://github.com/kkwestt/Meshtastic-board-s/blob/a70f731179a8acc23f7498bdf04835c082e6f1e3/diy_v1_green/diy_v1_green.jpg)
 
-- E22 LORA module 22dbm or 30dbm 868 or 433 (22-30-33 dbm) 
+- E22 LORA module (22 or 30dbm) 868 or 433 (22-30-33 dbm) 
 - Notify LED + Buzzer
 
 
@@ -29,7 +29,7 @@ Second board wired for Mestastic. There are several errors.
 
 ![](https://github.com/kkwestt/Meshtastic-board-s/blob/56067dfa795629560050608790e9b81ca606c778/diy_v1_blue/diy_v1_blue.jpg)
 
-- E22 LORA module 22dbm or 30dbm 868 or 433 (22-30-33 dbm) 
+- E22 LORA module (22 or 30dbm) 868 or 433 (22-30-33 dbm) 
 - Notify LED + Buzzer
 
 
@@ -50,7 +50,7 @@ Just LILYGO T3S3 V1.0 + nice case
 
 ![](https://github.com/kkwestt/Meshtastic-board-s/blob/492f89dead19d85f86c141e7ba42745ee3ce9f52/t3s3_red/t3s3_red2.JPG)
 
-- LILYGO T3S3 V1.0 with E22 LORA module 22dbm or 30dbm 868 or 433 (22-30-33 dbm) 
+- LILYGO T3S3 V1.0 with E22 LORA module (22 or 30dbm) 868 or 433 (22-30-33 dbm) 
 - GPS ATGM336H Module
 - 18650 2pcs holder
 - Li-Ion charger 1A + Temperature battery protection
