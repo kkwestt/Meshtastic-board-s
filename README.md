@@ -100,5 +100,9 @@ Gerber-NRF52840.zip - gerber files for production
 I think this is the best price for the complexity of soldering, output power and electricity consumption.
 
 - Read README inside of project
+- Seeed Studio XIAO nRF52840 + E22-900M30S 1W or E22-900M22S 0.14W or E22-900M33S 2W!
+- GPS ATGM336H Module
+- Temp Sensor SHT31
+- Powered in the range 5V only
 
 ![](https://github.com/kkwestt/Meshtastic-board-s/blob/main/xiao_ble/xiao_ble.jpg)
