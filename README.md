@@ -62,6 +62,8 @@ Just LILYGO T3S3 V1.0 + nice case
 - Clock PCF8563
 - Powered in the range 5-26V
 
+Added a 3D model of the case for printing on a printer
+
 
 ### t3s3 (blue) 
 
