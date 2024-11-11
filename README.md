@@ -97,6 +97,7 @@ Gerber-NRF52840.zip - gerber files for production
 
 
 ### XIAO BLE and E-Byte E22 1W board
+I think this is the best price for the complexity of soldering, output power and electricity consumption.
 
 - Read README inside of project
 
