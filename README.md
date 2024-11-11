@@ -94,3 +94,7 @@ Also tested and worked on nRF52840 Dongle, but to hard for soldering analog pin 
 
 Gerber-NRF52840.zip - gerber files for production
 
+
+### XIAO and E-Byte E22 1W board
+
+![](https://github.com/kkwestt/Meshtastic-board-s/blob/a70f731179a8acc23f7498bdf04835c082e6f1e3/xiao_e22/xiao_e22.jpg)
