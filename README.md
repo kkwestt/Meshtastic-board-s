@@ -17,7 +17,7 @@ Sometimes, and lately often, I make boards for meshtastic, and in search of the 
 ### DIY_V1 (green) 
 The very first board wired for Mestastic. There are several errors.
 
-![](https://github.com/kkwestt/Meshtastic-board-s/blob/a70f731179a8acc23f7498bdf04835c082e6f1e3/diy_v1_green/diy_v1_green.jpg)
+![](https://github.com/kkwestt/Meshtastic-board-s/blob/main/diy_v1_green/diy_v1_green.jpg)
 
 - E22 LORA module (22 or 30dbm) 868 or 433 (22-30-33 dbm) 
 - Notify LED + Buzzer
@@ -27,7 +27,7 @@ The very first board wired for Mestastic. There are several errors.
 Second board wired for Mestastic. There are several errors.
 
 
-![](https://github.com/kkwestt/Meshtastic-board-s/blob/56067dfa795629560050608790e9b81ca606c778/diy_v1_blue/diy_v1_blue.jpg)
+![](https://github.com/kkwestt/Meshtastic-board-s/blob/main/diy_v1_blue/diy_v1_blue.jpg)
 
 - E22 LORA module (22 or 30dbm) 868 or 433 (22-30-33 dbm) 
 - Notify LED + Buzzer
@@ -36,7 +36,7 @@ Second board wired for Mestastic. There are several errors.
 ### t3s3 (white) 
 Just LILYGO T3S3 V1.0 + nice case
 
-![](https://github.com/kkwestt/Meshtastic-board-s/blob/a70f731179a8acc23f7498bdf04835c082e6f1e3/t3s3_white/t3s3_white.jpg)
+![](https://github.com/kkwestt/Meshtastic-board-s/blob/main/t3s3_white/t3s3_white.jpg)
 
 - LILYGO T3S3 V1.0
 - GPS ATGM336H
@@ -48,7 +48,7 @@ Just LILYGO T3S3 V1.0 + nice case
 
 ### t3s3 (red) 
 
-![](https://github.com/kkwestt/Meshtastic-board-s/blob/492f89dead19d85f86c141e7ba42745ee3ce9f52/t3s3_red/t3s3_red2.JPG)
+![](https://github.com/kkwestt/Meshtastic-board-s/blob/main/t3s3_red/t3s3_red2.JPG)
 
 - LILYGO T3S3 V1.0 with E22 LORA module (22 or 30dbm) 868 or 433 (22-30-33 dbm) 
 - GPS ATGM336H Module
@@ -67,7 +67,7 @@ Added a 3D model of the case for printing on a printer
 
 ### t3s3 (blue) 
 
-![](https://github.com/kkwestt/Meshtastic-board-s/blob/a70f731179a8acc23f7498bdf04835c082e6f1e3/t3s3_blue/t3s3_blue.jpg)
+![](https://github.com/kkwestt/Meshtastic-board-s/blob/main/t3s3_blue/t3s3_blue.jpg)
 
 - LILYGO T3S3 V1.0 with E22 LORA module 22dbm
 - GPS ATGM336H Module
@@ -81,7 +81,7 @@ Added a 3D model of the case for printing on a printer
 Best power consumption. E-Byte E104-BT5040U + E22-900M22S on 22dBm Rx 0.7W and Tx 0.33W
 Also tested and worked on nRF52840 Dongle, but to hard for soldering analog pin P0.04
 
-![](https://github.com/kkwestt/Meshtastic-board-s/blob/a70f731179a8acc23f7498bdf04835c082e6f1e3/nrf52840/nrf52840.png)
+![](https://github.com/kkwestt/Meshtastic-board-s/blob/main/nrf52840/nrf52840.png)
  
 - E-Byte E104-BT5040U CPU nrf52840  
 - E22 LORA module (22 or 30dbm) 868 or 433 (22-30-33 dbm) 
@@ -97,5 +97,7 @@ Gerber-NRF52840.zip - gerber files for production
 
 
 ### XIAO BLE and E-Byte E22 1W board
+
+- Read README inside of project
 
 ![](https://github.com/kkwestt/Meshtastic-board-s/blob/main/xiao_ble/xiao_ble.jpg)
