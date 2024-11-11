@@ -98,4 +98,4 @@ Gerber-NRF52840.zip - gerber files for production
 
 ### XIAO BLE and E-Byte E22 1W board
 
-![](https://github.com/kkwestt/Meshtastic-board-s/blob/a70f731179a8acc23f7498bdf04835c082e6f1e3/xiao_ble/xiao_ble.jpg)
+![](https://github.com/kkwestt/Meshtastic-board-s/blob/main/xiao_ble/xiao_ble.jpg)
